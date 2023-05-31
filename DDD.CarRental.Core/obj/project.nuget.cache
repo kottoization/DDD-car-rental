@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKZO6BoM3RpH5HzE1/0YPh55nIUq9PeUBqAoB/Chsi/Skd+l2gX+SdS00SqDGSeqHX07vGnJ0VEZGIa5ttqjgw==",
+  "dgSpecHash": "Yk61LEAvkOahZ+C82c9VHFxiyznBFcdjP1M8+hTJ8++dkHwQJx2v8eF0WHT2lZOwGC/Yvww33J/J04mwf+zUkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
+  "projectFilePath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu_000\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\mateu_000\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.6\\microsoft.data.sqlite.core.5.0.6.nupkg.sha512",

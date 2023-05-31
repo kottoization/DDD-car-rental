@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E5aA2rALZ3Yvs3R2j73OYNKxRJXHOek+41V+Ur+O+85HWaLwH2VLiLzxkVcwf3dPMI6CKqCrmEK5x4Me21J4BQ==",
+  "dgSpecHash": "kfohRt17z4Jepust8aUBbR/w+jSSUT2TiHaNHCjBfKPNKMkdFsG6vabURtQinOBDwfpYiZpnuQY8llu7qK5Rdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+  "projectFilePath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mateu_000\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\mateu_000\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"

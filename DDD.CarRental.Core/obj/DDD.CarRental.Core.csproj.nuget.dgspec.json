@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {}
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
         "projectName": "DDD.CarRental.Core",
-        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
         "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.CarRental.Core\\obj\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj"
+              "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
         "projectName": "DDD.SharedKernel",
-        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",

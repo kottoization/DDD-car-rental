@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {}
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
         "projectName": "DDD.SharedKernel",
-        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\DDD\\CarRental_Net60\\DDD.SharedKernel\\obj\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
