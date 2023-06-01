@@ -22,6 +22,8 @@ namespace DDD.CarRental.Core.DomainModelLayer.Models
         protected Car()
         { }
 
+
+        // !!!!! tutaj mozliwe ze trzeba dac Money z SharedKernel - > DML -> implementations , trzeba to zweryfikowac
         public Car(long carId, string registrationNumber, double currentDistance, double totalDistance)
             : base(carId)
         {
