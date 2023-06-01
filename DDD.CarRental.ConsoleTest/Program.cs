@@ -45,6 +45,7 @@ namespace DDD.CarRental.ConsoleTest
             // registering domain model services, factories
             serviceCollection.AddSingleton<Mapper>();
 
+
             // ToDo: Zarejestruj pozostałe usługi, fabryki, polityki, itp.
         }
     }
