@@ -29,8 +29,9 @@ namespace DDD.CarRental.Core.InfrastructureLayer.EF.EntityConfigurations
             builder.Property(c => c.CurrentDistance)
                    .HasColumnType("decimal(18,2)")
                    .IsRequired();
+            // Dodanie indeksu dla numeru rejestracyjnego, aby był unikalny
+            builder.HasIndex(c => c.RegistrationNumber).IsUnique();
 
-            
         }
     }
 }
