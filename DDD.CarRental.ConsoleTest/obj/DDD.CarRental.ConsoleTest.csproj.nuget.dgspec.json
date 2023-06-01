@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj": {}
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj",
         "projectName": "DDD.CarRental.ConsoleTest",
-        "projectPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj",
-        "packagesPath": "C:\\Users\\jswiderek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.ConsoleTest\\obj\\",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.ConsoleTest\\DDD.CarRental.ConsoleTest.csproj",
+        "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.ConsoleTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jswiderek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
-                "projectPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj"
+              "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
+                "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj"
               }
             }
           }
@@ -75,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -85,25 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
         "projectName": "DDD.CarRental.Core",
-        "projectPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
-        "packagesPath": "C:\\Users\\jswiderek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.CarRental.Core\\obj\\",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\DDD.CarRental.Core.csproj",
+        "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.CarRental.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jswiderek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\DDD.SharedKernel.csproj"
+              "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj"
               }
             }
           }
@@ -152,8 +143,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -162,25 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
+    "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
         "projectName": "DDD.SharedKernel",
-        "projectPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
-        "packagesPath": "C:\\Users\\jswiderek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jswiderek\\Downloads\\DDD-car-rental-main\\DDD-car-rental-main\\DDD.SharedKernel\\obj\\",
+        "projectPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\DDD.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\mateu_000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateu_000\\Desktop\\studia\\informatyka i ekonometria rok 3\\Wzorce Projektowe\\projekt\\DDD-car-rental\\DDD.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jswiderek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mateu_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,8 +203,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -227,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,3 +9,15 @@ C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-S
 C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.dll
 C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.SharedKernel\obj\Debug\net6.0\ref\DDD.SharedKernel.dll
 C:\OneDrive\Personal\OneDrive\Student\Wzorce projektowe\Lab\Lab5\DDD.CarRental-Student_Net60\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\bin\Debug\net6.0\DDD.SharedKernel.deps.json
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\bin\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\bin\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.AssemblyInfo.cs
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.dll
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\refint\DDD.SharedKernel.dll
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\DDD.SharedKernel.pdb
+C:\Users\mateu_000\Desktop\studia\informatyka i ekonometria rok 3\Wzorce Projektowe\projekt\DDD-car-rental\DDD.SharedKernel\obj\Debug\net6.0\ref\DDD.SharedKernel.dll
